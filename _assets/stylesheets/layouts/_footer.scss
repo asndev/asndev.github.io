@@ -1,0 +1,32 @@
+// =============================================================================
+// Footer
+// =============================================================================
+
+.footer {
+  display: block;
+  padding: 35px 0 85px;
+  border-top: 1px solid $base-border-color;
+  p {
+    font-size: 15px;
+    color: $gray-light;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  .avatar {
+    margin-bottom: 30px; border-radius: 50%; width:120px; height:120px; position: absolute;
+  }
+
+  .footer__text {
+    float:left; padding-left:140px; text-align: justify;
+
+    h3 {
+      color: black;
+    }
+  }
+
+  .copyright {
+    text-align: right;
+  }
+}
