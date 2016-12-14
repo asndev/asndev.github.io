@@ -7,15 +7,14 @@ set -e
 
 echo "Started deploying"
 
-# Checkout gh-pages branch.
-if [ `git branch | grep gh-pages` ]
+# Checkout master branch.
+if [ `git branch | grep master` ]
 then
-  git branch -D gh-pages
+  git branch -D master
 fi
-git checkout -b gh-pages
+git checkout -b master
 
 # Build site.
-bower install
 bundle exec jekyll build
 
 # Delete and move files.
@@ -25,12 +24,11 @@ rm -R _site/
 
 # Push to gh-pages.
 git add -fA
-git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
+git commit --allow-empty -m "$(git log -1 --pretty=%B) :v:"
 git push -f -q origin gh-pages
 
 # Move back to previous branch.
 git checkout -
-bower install
 
 echo "Deployed Successfully!"
 
