@@ -5,7 +5,7 @@ description: "Small introduction at the Devsmeetp Freiburg about 'Progressive We
 tags: [dev, pwa, talk]
 ---
 
-{% include image.html path="posts/devsmeetup_2016-Sep-28.jpg" path-detail="posts/devsmeetup_2016-Sep-28.jpg" alt="Chalk intro" %}
+{% include image.html path="posts/devsmeetup_2016-Sep-28.jpg" path-detail="posts/devsmeetup_2016-Sep-28.jpg" alt="Devsmeetup Impressions" %}
 
 ## Devs Meetup Talk in Freiburg
 
