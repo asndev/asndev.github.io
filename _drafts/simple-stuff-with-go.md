@@ -6,4 +6,18 @@ og_image: "documentation/sample-image.jpg"
 tags: [dev, go]
 ---
 
-Coming soon ...
+### What we gonna do
+
+### Pre requisits
+
+- install go
+- how to create project
+- helloworld
+
+### Install dependencies
+
+### Define first route
+
+### Handle route
+
+### Test
