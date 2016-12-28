@@ -19,6 +19,8 @@ body {
   margin: 0 auto;
   font-family: $base-font-family;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.02em;
   font-weight: $base-font-weight;
   line-height: $base-line-height;
   color: $base-font-color;
