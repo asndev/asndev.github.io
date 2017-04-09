@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://asn.ninja/posts/jwt-auth-with-spring</loc>
+<lastmod>2017-01-28T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://asn.ninja/posts/opuxl-auto-discovered-excel-udfs</loc>
+<lastmod>2016-12-23T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://asn.ninja/posts/introduction-to-pwa-devsmeetup</loc>
+<lastmod>2016-09-28T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://asn.ninja/about</loc>
+</url>
+<url>
+<loc>https://asn.ninja/</loc>
+</url>
+<url>
+<loc>https://asn.ninja/tag/design/</loc>
+</url>
+<url>
+<loc>https://asn.ninja/tag/dev/</loc>
+</url>
+<url>
+<loc>https://asn.ninja/tag/jekyll/</loc>
+</url>
+<url>
+<loc>https://asn.ninja/tag/pwa/</loc>
+</url>
+<url>
+<loc>https://asn.ninja/tag/web/</loc>
+</url>
+</urlset>

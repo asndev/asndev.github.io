@@ -1,4 +1,0 @@
----
-slug: pwa
-name: PWA
----
